@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClairvoyantCoder
 - 🙋‍♂️ Identified as Himangshu Lahkar
-- 👀 I’m interested in Web Development, Artificial Intellegence and Data Science
-- 💻 I have a decent knowledge of Python, Java and C++
+- 👀 I’m interested in Web Development, UI/UX and IoT
+- 💻 I have a decent knowledge of Python, Java and C
 - 🖥 I also cleared the fundamentals of HTML, CSS and JS
 - 👨‍🎓 I’m currently pursuing Electronics and Communication Engineering as a degree
 - 💞️ I’m looking to collaborate, learn and connect with people for my projects
